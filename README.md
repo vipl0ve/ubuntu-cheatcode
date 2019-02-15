@@ -7,7 +7,18 @@ You gotta collect 'em all!
 This repo is the my collections which can be useful for other ubuntu newbies. Most of these are popular must have cheatcodes. Feel free to add others if you find them interesting or useful.
 
 
+$ lsb_release -a # ubuntu version
 
+##software packages on Ubuntu##
+$ sudo apt-get update # update existing packages
+$ sudo apt-get install XXXX # install package XXXXX
+$ sudo apt list --installed
+$ sudo apt list --installed | less
+$ sudo apt list --installed | grep -i apache
+$ sudo dpkg -l
+$ sudo dpkg -l | grep -i apache
+
+$ echo $PATH
 
 ## GNOME Cheats ##
 * Super key – Brings Activity
