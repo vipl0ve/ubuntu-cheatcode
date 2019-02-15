@@ -10,12 +10,14 @@ This repo is the my collections which can be useful for other ubuntu newbies. Mo
 
 
 ## GNOME Cheats ##
-Super key – Brings Activity
-Alt + F2 – For quickly running commands
-Alt + Tab or Super + Tab – Switch between the running applications
-Super + A – Show the list of applications.
-Super + Page Up or Down – Switch between workspaces
-Ctrl+Alt+Delete – Power Off
-Super + L – Lock the screen
-Super +M – Bring down the notification tray
-Ctrl+Super+D – Minimize all the windows and show desktop
+* Super key – Brings Activity
+* Alt + F2 – For quickly running commands
+* Alt + Tab or Super + Tab – Switch between the running applications
+* Super + A – Show the list of applications.
+* Super + Page Up or Down – Switch between workspaces
+* Ctrl+Alt+Delete – Power Off
+* Super + L – Lock the screen
+* Super +M – Bring down the notification tray
+* Ctrl+Super+D – Minimize all the windows and show desktop
+
+https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.en
